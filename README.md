@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sahilkargutkar/Sflix">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">SFLIX</h3>
@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![SFLIX][Screenshot.png]](https://sahilflix.herokuapp.com/)
+![Screenshot](https://github.com/sahilkargutkar/Sflix/blob/master/images/Screenshot.png "Sflix")
 
 
 ### Built With

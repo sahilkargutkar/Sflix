@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Contact Me : <a href="mailto:sahilkargutkar.sk@gmail.com">Gmail </a> 
+Contact Me :<a href="mailto:sahilkargutkar.sk@gmail.com">Email Me</a>
 
 Project Link: [SFLIX Project](https://sahilflix.herokuapp.com/)
 

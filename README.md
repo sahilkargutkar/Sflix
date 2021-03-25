@@ -2,8 +2,7 @@
 
 
 
-
-[![MIT License][license-shield]](https://github.com/sahilkargutkar/Sflix/blob/master/LICENSE)
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]](https://linkedin.com/in/sahilkar99)
 
 
@@ -149,7 +148,7 @@ Project Link: [SFLIX Project](https://sahilflix.herokuapp.com/)
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/sahilkargutkar/Sflix.svg?style=for-the-badge
 [license-url]: https://github.com/sahilkargutkar/Sflix/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sahilkar99

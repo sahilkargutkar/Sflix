@@ -1,10 +1,10 @@
 
-[![Contributors][contributors-shield]][contributors-url]//
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://linkedin.com/in/sahilkar99]
+
+
+
+
+[![MIT License][license-shield]](https://github.com/sahilkargutkar/Sflix/blob/master/LICENSE)
+[![LinkedIn][linkedin-shield]](https://linkedin.com/in/sahilkar99)
 
 
 
@@ -55,7 +55,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -64,11 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+[![SFLIX][Screenshot.png]](https://sahilflix.herokuapp.com/)
 
 
 ### Built With
@@ -96,7 +91,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/sahilkargutkar/Sflix.git
    ```
 2. Install NPM packages
    ```sh
@@ -150,22 +145,11 @@ Project Link: [SFLIX Project](https://sahilflix.herokuapp.com/)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/sahilkargutkar/Sflix/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sahilkar99
